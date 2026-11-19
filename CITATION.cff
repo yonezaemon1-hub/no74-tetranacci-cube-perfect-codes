@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Cite this unreviewed, AI-assisted preprint by its title and author."
+title: "Exact 1-perfect-code classification of the fourth-order generalized Fibonacci cubes"
+authors:
+  - family-names: Yonezu
+    given-names: Ryutaro
+version: "1.0"
+type: generic
+abstract: "A classification of 1-perfect codes in Q_n(1111) for all positive n; the code exists exactly for n=1 or n=3. AI-assisted, not peer reviewed. Novelty inconclusive; references partial. All rights reserved."

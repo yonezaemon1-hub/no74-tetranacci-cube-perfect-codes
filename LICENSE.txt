@@ -1,0 +1,4 @@
+Copyright (c) 2026 Ryutaro Yonezu. All rights reserved.
+
+No license to copy, modify, redistribute, or reuse the work is granted by this file.
+The repository and Zenodo record permit public reading of the deposited files; that availability is not an open license.
